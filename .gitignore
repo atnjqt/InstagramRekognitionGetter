@@ -1,0 +1,10 @@
+*.html
+*.json
+# These directories get deleted in git ignore since there is nothing there... 
+!docker_comment_getter/configs/wwe_df.json
+!wwe_comments_outdirs/**/html/
+!rekognition/rekog_output/README.md
+.ipynb_checkpoints
+.ini
+docker_rekognition/configs/.aws/config
+!docker_rekognition/configs/wwe_df.json

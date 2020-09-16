@@ -1,0 +1,6 @@
+pandas
+boto3
+pyathena
+#PIL for images? not sure about this one ...
+requests
+matplotlib
